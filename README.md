@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Dihad
-- 👀 I’m interested in ... iot
-- 🌱 I’m currently learning ...js
-- 💞️ I’m looking to collaborate on ...arduino
+- 👀 I’m interested in ... web development
+- 🌱 I’m currently learning ... js framework and ai 
+- 💞️ I’m looking to collaborate on ... on a project on new tabs for browsers
 - 📫 How to reach me ...whatsup
 - 😄 Pronouns: ...he
-- ⚡ Fun fact: ...I start proggraming when i was 13 now 14
+- ⚡ Fun fact: ...I start proggraming when i was 13 now 15
 - 
 
 <!---
